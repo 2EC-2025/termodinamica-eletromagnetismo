@@ -19,7 +19,8 @@
 ### **2. Caso tenha parte em paralelo, verificar se é ímpar ou par**
 - **Se ímpar**: Realizar **redução de dois em dois** até obter um par ou um equivalente.
 - **Se par**: Aplicar a técnica da **proporção direta**:
-  - Calcular:  
+  - Calcular:
+
     \$$ V = \frac{R_{maior}}{R_1 + R_2} \times V_{total} \$$
 
 ### **3. Com todo o circuito em série, verificar a proporção entre os resistores**
