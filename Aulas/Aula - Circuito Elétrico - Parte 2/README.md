@@ -21,7 +21,7 @@
 - **Se par**: Aplicar a técnica da **proporção direta**:
   - Calcular:
 
-    \$$ V = \frac{R_{maior}}{R_1 + R_2} \times V_{total} \$$
+    \$$ R{eq} = \frac{R_{maior}}{P_{R_1} + P_{R_2}} \$$
 
 ### **3. Com todo o circuito em série, verificar a proporção entre os resistores**
 - Para resistores em série:
@@ -77,4 +77,4 @@
 
 ---
 
-
+📙 Prepare-se para aplicações em circuitos com corrente alternada na próxima aula!
