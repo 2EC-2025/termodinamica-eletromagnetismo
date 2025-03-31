@@ -95,7 +95,7 @@ b) Determine \$$( I_{ef} )\$$
 - C = 50μF  
 - Tensão: 220V a 60Hz  
 
-**Tarefa:** Calcule \$$ ( X_L \), \( X_C \), \( Z \), \( I \), \( \cos \phi )\$$
+**Tarefa:** Calcule \$$ ( X_L )\$$, \$$( X_C )\$$, \$$( Z )\$$, \$$( I )\$$, \$$( \cos \phi )\$$
 
 ---
 
