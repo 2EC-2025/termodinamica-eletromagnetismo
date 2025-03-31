@@ -32,7 +32,7 @@
 \$$ R = \frac{\rho \cdot L}{A} \$$
 
 - Onde:  
-  -  ```math \rho ``` : resistividade do material  
+  - \$$ \rho $$\  : resistividade do material  
   - \$$ L \$$ : comprimento  
   - \$$ A \$$ : área da seção transversal  
 
