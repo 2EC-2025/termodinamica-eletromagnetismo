@@ -27,47 +27,48 @@
 ## 📊 Forma de Onda Senoidal
 
 Equação:  
-\[ v(t) = V_{\text{máx}} \cdot \sin(\omega t + \phi) \]
+
+\$$ v(t) = V_{\text{máx}} \cdot \sin(\omega t + \phi) \$$
 
 Parâmetros:  
-- \( V_{\text{máx}} \): Valor de pico  
-- \( V_{\text{ef}} = \frac{V_{\text{máx}}}{\sqrt{2}} \): Valor eficaz  
-- \( \omega = 2\pi f \): Frequência angular  
-- \( \phi \): Fase
+- \$$( V_{\text{máx}} )\$$: Valor de pico  
+- \$$( V_{\text{ef}} = \frac{V_{\text{máx}}}{\sqrt{2}} )\$$: Valor eficaz  
+- \$$( \omega = 2\pi f )\$$: Frequência angular  
+- \$$( \phi )\$$: Fase
 
 ---
 
 ## 🛠️ Resistores em CA
 - Corrente e tensão em **fase**.
-- Impedância: \( Z = R \)
+- Impedância: \$$( Z = R )\$$
 
 ---
 
 ## 🔋 Indutores em CA
 - Corrente **atrasada** da tensão em 90º.
-- Reatância indutiva: \( X_L = 2\pi f L \)
-- Impedância: \( Z = jX_L \)
+- Reatância indutiva: \$$( X_L = 2\pi f L )\$$
+- Impedância: \$$( Z = jX_L )\$$
 
 ---
 
 ## 🔌 Capacitores em CA
 - Corrente **adiantada** da tensão em 90º.
-- Reatância capacitiva: \( X_C = \frac{1}{2\pi f C} \)
-- Impedância: \( Z = -jX_C \)
+- Reatância capacitiva: \$$( X_C = \frac{1}{2\pi f C} )\$$
+- Impedância: \$$( Z = -jX_C )\$$
 
 ---
 
 ## 🔢 Circuito RLC em Série
-- Impedância total: \( Z = R + j(X_L - X_C) \)
-- Módulo: \( |Z| = \sqrt{R^2 + (X_L - X_C)^2} \)
-- Defasagem: \( \tan(\phi) = \frac{X_L - X_C}{R} \)
+- Impedância total: \$$( Z = R + j(X_L - X_C) )$$
+- Módulo: \$$( |Z| = \sqrt{R^2 + (X_L - X_C)^2} )\$$
+- Defasagem: \$$( \tan(\phi) = \frac{X_L - X_C}{R} )\$$
 
 ---
 
 ## 📉 Potência em CA
-- Potência ativa: \( P = V_{ef} \cdot I_{ef} \cdot \cos \phi \)
-- Potência reativa: \( Q = V_{ef} \cdot I_{ef} \cdot \sin \phi \)
-- Fator de potência: \( fp = \cos \phi \)
+- Potência ativa: \$$( P = V_{ef} \cdot I_{ef} \cdot \cos \phi )\$$
+- Potência reativa: \$$( Q = V_{ef} \cdot I_{ef} \cdot \sin \phi )\$$
+- Fator de potência: \$$( fp = \cos \phi )\$$
 
 ---
 
@@ -82,8 +83,8 @@ Parâmetros:
 **Fonte:** 120V (eficaz) a 60Hz  
 **Capacitor:** 47μF  
 **Perguntas:**  
-a) Calcule \( X_C \)  
-b) Determine \( I_{ef} \)
+a) Calcule \$$( X_C )\$$  
+b) Determine \$$( I_{ef} )\$$
 
 ---
 
@@ -94,7 +95,7 @@ b) Determine \( I_{ef} \)
 - C = 50μF  
 - Tensão: 220V a 60Hz  
 
-**Tarefa:** Calcule \( X_L \), \( X_C \), \( Z \), \( I \), \( \cos \phi \)
+**Tarefa:** Calcule \$$ ( X_L \), \( X_C \), \( Z \), \( I \), \( \cos \phi )\$$
 
 ---
 
