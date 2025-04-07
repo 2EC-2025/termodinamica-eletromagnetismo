@@ -87,12 +87,12 @@ Tipos mais comuns:
 1. **Determine a função de transferência** \$$H(f)\$$ do circuito.
 2. **Calcule a frequência de corte**:
 
-   \$$ f_c = \frac{1}{2\pi RC} \$$
+   \$$f_c = \frac{1}{2\pi RC}\$$
    
 4. **Monte uma tabela com valores de frequência** (ex: 0.1·fc, fc, 10·fc...)
 5. **Calcule o ganho em dB** para cada frequência:
    
-   \$$ G(f) = 20 \cdot \log_{10} |H(f)| \$$
+   \$$G(f) = 20 \cdot \log_{10} |H(f)|\$$
    
 7. **Opcional**: calcule a **fase** para cada ponto (útil para sinais senoidais).
 8. **Plote os dados** em dois gráficos separados (ganho e fase).
