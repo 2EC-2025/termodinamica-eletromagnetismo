@@ -123,12 +123,42 @@ Tipos mais comuns:
 
 ---
 
-## 🛠️ Atividade Prática
-Monte no simulador (PhET, Falstad ou Tinkercad) os dois tipos de filtro RC:
-- Meça o sinal de saída para várias frequências
-- Compare com os gráficos teóricos
-- Identifique a frequência de corte experimental
+## 🛠️ Atividades Práticas
 
+### 🔧 Atividade 1: Simulação de Filtro RC Passa-Baixa
+
+Monte o circuito em um simulador (PhET, Falstad, Tinkercad)
+
+Altere a frequência da fonte de entrada
+
+Meça a tensão na saída para várias frequências
+
+Construa a curva experimental de resposta em frequência
+
+### 🔧 Atividade 2: Simulação de Filtro RC Passa-Alta
+
+Monte o circuito inverso da atividade anterior
+
+Meça o comportamento da saída para frequências baixas, médias e altas
+
+Compare com o gráfico teórico da função de transferência
+
+### 🔧 Atividade 3: Análise de ruído
+
+Simule um sinal misto (senoide + ruído de alta frequência)
+
+Aplique filtro RC passa-baixa e observe a saída
+
+Explique o resultado
+
+### 🔧 Atividade 4: Escolha de componentes para uma aplicação
+
+Escolha um valor de frequência de corte (ex: 1 kHz)
+
+Determine valores possíveis para R e C que satisfaçam 
+
+Monte e teste no simulador
+  
 ---
 
 ## 📚 Referências
